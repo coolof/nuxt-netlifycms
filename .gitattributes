@@ -1,2 +1,9 @@
 # Uncomment the following line if you want to use git lfs for the static/img folder
 #static/img/** filter=lfs diff=lfs merge=lfs -text
+static/img/www.solacedocumentary.com_-2-.png filter=lfs diff=lfs merge=lfs -text
+static/img/ntn-boilerplate-preview-dark.png filter=lfs diff=lfs merge=lfs -text
+static/img/ntn-boilerplate-preview-light.png filter=lfs diff=lfs merge=lfs -text
+static/img/pawel-czerwinski-etlkz1gevoq-unsplash.jpg filter=lfs diff=lfs merge=lfs -text
+static/img/placeholder-320x180.png filter=lfs diff=lfs merge=lfs -text
+static/img/stensakra02.jpg filter=lfs diff=lfs merge=lfs -text
+static/img/www.jlt.se_.png filter=lfs diff=lfs merge=lfs -text
